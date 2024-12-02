@@ -14,10 +14,6 @@
 [ext_resource path="res://assets/models/hisuian zorua with animation/pm0570_00_41_Body_col.png" type="Texture" id=15]
 [ext_resource path="res://assets/models/hisuian zorua with animation/pm0570_00_41_Eye_col merged.png" type="Texture" id=16]
 
-[node name="NormalZorua" type="Spatial"]
-albedo_texture = ExtResource( 15 )
-albedo_texture = ExtResource( 16 )
-
 [sub_resource type="Animation" id=1]
 resource_name = "Catch"
 step = 0.0416667
