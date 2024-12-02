@@ -9,7 +9,7 @@
 [ext_resource path="res://assets/models/hisuian zorua with animation/LeftBody.anim" type="Animation" id=7]
 [ext_resource path="res://assets/models/hisuian zorua with animation/RightFace.anim" type="Animation" id=8]
 [ext_resource path="res://assets/models/hisuian zorua with animation/RightBody.anim" type="Animation" id=9]
-[ext_resource path="res://assets/models/hisuian zorua with animation/UpBody.anim" 
+[ext_resource path="res://assets/models/hisuian zorua with animation/UpBody.anim" id=10]
 [ext_resource path="res://scenes/shared/game/characters/ShinyZoruaModel.tscn" type="PackedScene" id=3]
 [ext_resource path="res://assets/models/hisuian zorua with animation shiny/pm0570_00_41_Body_col.png" type="Texture2D" id=15]
 [ext_resource path="res://assets/models/hisuian zorua with animation shiny/pm0570_00_41_Eye_col merged.png" type="Texture2D" id=16]
