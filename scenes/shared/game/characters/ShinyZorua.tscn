@@ -2,6 +2,15 @@
 
 [ext_resource path="res://scripts/game/characters/PlayableCharacter.gd" type="Script" id=1]
 [ext_resource path="res://scenes/shared/game/characters/ShinyZoruaModel.tscn" type="PackedScene" id=3]
+[ext_resource path="res://assets/models/hisuian zorua with animation/DownBody.anim" type="Animation" id=2]
+[ext_resource path="res://assets/models/hisuian zorua with animation/IdleReset.anim" type="Animation" id=3]
+[ext_resource path="res://assets/models/hisuian zorua with animation/UpFace.anim" type="Animation" id=4]
+[ext_resource path="res://assets/models/hisuian zorua with animation/LeftFace.anim" type="Animation" id=5]
+[ext_resource path="res://assets/models/hisuian zorua with animation/IdleBody.anim" type="Animation" id=6]
+[ext_resource path="res://assets/models/hisuian zorua with animation/LeftBody.anim" type="Animation" id=7]
+[ext_resource path="res://assets/models/hisuian zorua with animation/RightFace.anim" type="Animation" id=8]
+[ext_resource path="res://assets/models/hisuian zorua with animation/RightBody.anim" type="Animation" id=9]
+[ext_resource path="res://assets/models/hisuian zorua with animation/UpBody.anim" type="Animation" id=10]
 [ext_resource path="res://assets/models/hisuian zorua with animation shiny/pm0570_00_41_Body_col.png" type="Texture" id=15]
 [ext_resource path="res://assets/models/hisuian zorua with animation shiny/pm0570_00_41_Eye_col merged.png" type="Texture" id=16]
 
