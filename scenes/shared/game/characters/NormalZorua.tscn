@@ -18,10 +18,6 @@
 albedo_texture = ExtResource( 15 )
 albedo_texture = ExtResource( 16 )
 
-[node name="NormalZoruaModel" parent="." instance=ExtResource( 3 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.5, 1, -0.5 )
-script = ExtResource( 1 )
-
 [sub_resource type="Animation" id=1]
 resource_name = "Catch"
 step = 0.0416667
