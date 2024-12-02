@@ -753,7 +753,7 @@ tracks/3/keys = {
 [node name="Partners" type="AnimatedSprite"]
 position = Vector2( 916, 486 )
 frames = ExtResource( 2 )
-animation = "BF idle dance w gf"
+animation = "idle"
 centered = false
 script = ExtResource( 1 )
 idle_frequency = 2
