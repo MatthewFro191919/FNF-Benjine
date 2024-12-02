@@ -1,6 +1,7 @@
 [gd_scene load_steps=18 format=2]
 
 [ext_resource path="res://scripts/game/characters/PlayableCharacter.gd" type="Script" id=1]
+[ext_resource path="res://scenes/game/characters/NormalZoruaModel.tscn" type="PackedScene" id=3]
 [ext_resource path="res://assets/models/hisuian zorua with animation/pm0570_00_41_Body_col.png" type="Texture" id=15]
 [ext_resource path="res://assets/models/hisuian zorua with animation/pm0570_00_41_Eye_col merged.png" type="Texture" id=16]
 
