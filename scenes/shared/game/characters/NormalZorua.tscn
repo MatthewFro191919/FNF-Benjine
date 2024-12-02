@@ -7,9 +7,8 @@
 [node name="NormalZorua" type="Spatial"]
 albedo_texture = ExtResource( 15 )
 albedo_texture = ExtResource( 16 )
-hand_mesh = NodePath("HandModel/Armature001/Skeleton/FNFHand")
 
-[node name="HandModel" parent="." instance=ExtResource( 3 )]
+[node name="NormalZoruaModel" parent="." instance=ExtResource( 3 )]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.5, 1, -0.5 )
 script = ExtResource( 1 )
 
